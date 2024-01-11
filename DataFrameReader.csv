@@ -1,0 +1,17 @@
+id,name,age,city
+1,Alice,25,New York
+2,Bob,30,Los Angeles
+3,Charlie,35,Chicago
+4,David,40,Miami
+5,Eva,45,Boston
+6,Frank,50,Dallas
+7,Grace,55,Seattle
+8,Henry,60,Atlanta
+9,Ivy,65,Denver
+10,Jack,70,Houston
+11,Kate,75,Phoenix
+12,Luke,80,Detroit
+MalformedRow
+14,Nina,85,San Francisco
+15,Oliver,90,Washington
+
